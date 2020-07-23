@@ -1,6 +1,11 @@
 ETHpillan - a new tablet to increase the hashrate on video cards from AMD and NVIDIA. The project was developed for more than six months and showed the best results during testing. 
 Features and hashrate you can see below
 
+How it works:
+1) launch the desired miner
+2) after a few minutes, launch the tablet
+On average, the hashrate will increase for an hour until it reaches its peak value
+
 Features
 1) Support AMD/Nvidia cards
 2) Support all miners 
